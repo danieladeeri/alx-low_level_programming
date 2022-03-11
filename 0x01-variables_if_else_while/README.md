@@ -1,1 +1,1 @@
-program that assigns a random number
+working with variable
